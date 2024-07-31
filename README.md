@@ -10,4 +10,4 @@ Usage
 
 4. Run the script by typing the following command:
 
-**. .\Wifi_Password_Extractor.ps1**
+> .\Wifi_Password_Extractor.ps1
